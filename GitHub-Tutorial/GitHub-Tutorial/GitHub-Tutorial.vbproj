@@ -81,7 +81,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
+    <Content Include="divSlider.html" />
     <Content Include="icon.png" />
     <Content Include="jquery-1.10.2.min.js" />
     <Content Include="style.css" />
@@ -157,7 +157,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>13132</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
